@@ -1,4 +1,6 @@
 public void getVoltage(){
 result = this.voltage;
 
+return result;
+
 }
